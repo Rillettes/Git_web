@@ -1,1 +1,0 @@
-zip -vru  ~/public_html/* ~/public_html/Archive.zip;
