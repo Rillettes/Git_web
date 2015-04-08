@@ -1,3 +1,7 @@
+aside h1,h2,h3,a
+{
+    font-family:'Leckerli one',serif;
+}
 body
 {
     background: url(../Images/grey.jpg) fixed;
@@ -60,7 +64,7 @@ h1
 {
     font-size: 2em;
     font-family:'Rokkitt',IMPACT;
-    font-weight: bold;
+    font-weight: bolder;
     text-align: center;
 }
 
@@ -167,4 +171,7 @@ figure span {
 figure:hover span {
    top: -52px;
     opacity:1;
+}
+header h1{
+    font-family: 'Aclonica';
 }

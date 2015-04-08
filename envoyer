@@ -1,1 +1,2 @@
 scp -r ~/BubbleBlast/BubbleBlast/Git_web/ topin_ed@ssh.int-evry.fr:~/public_html;
+exit;
